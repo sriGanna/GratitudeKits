@@ -7,23 +7,31 @@ Expressions of gratitude can help nurture community and help form deep and meani
 
 
 ## Formative evaluation 
-
+Provide a brief summary of your formative evaluation process and findings. Brainsketching activity may come of use here. 
 
 ## Persona, scenario, and storyboard
+Succinctly present your main persona, your scenario, and the storyboard you created. Be selective in choosing what to highlight from this. You likely produced more artefacts than you will want to highlight. But these sections should be driven by artefacts and not by descriptions of them. 
+
 
 ### Rachel Jones
+![Persona of Rachel](./images/Rachel_jones.png)
+
 
 ### Matt Tores 
+![Persona of Matt](./images/matt_torres.png)
 
 ## Storyboard 
 
 
 ## Prototype Overview 
-
+Provide a brief overview of your prototype, including a description of its design, rationales for the design choices, and images as necessary to communicates its overall design. You should as a general rule embed your video prototype here (though as this has already been evaluated separately you will not be graded down for not including it if there is some technical or practical challenge in doing so).
 
 ## Feedback 
+Briefly describe how the prototype was evaluated and highlight key findings, especially any that were surprising or went against your expectations. Being able to interpret the findings and select which are most useful to share is as important as being able to collect the data in the first place.
+
 
 ## Redesign 
+Present the next progression of your design idea. Note that we are cutting our iterative process off at this stage and keeping it brief. You should use this design phase to articulate how your evaluation findings are moving forward your design thinking. You do not need to build out an entire interface.
 
 ## Concluding thoughts and future work 
 
