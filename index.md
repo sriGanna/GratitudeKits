@@ -4,21 +4,28 @@
 Of the 1.4 million students who study at Canadian Universities, 10% move provinces to, and  another 10% originate from outside of Canada. These students often relocate with a limited or non-existent social, professional, or other type of network in their new city 
 This can lead to feelings of isolation contributing to higher levels of mental illness, poor university experience, academic performance, attrition,
 Expressions of gratitude can help nurture community and help form deep and meaningful connections - absolving such feels of isolation and subsequent effects
+![Problem Statement](./images/ProblemStateemnt.JPG)
 
 
 ## Formative evaluation 
 Provide a brief summary of your formative evaluation process and findings. Brainsketching activity may come of use here. 
 
+
+
 ## Persona, scenario, and storyboard
 Succinctly present your main persona, your scenario, and the storyboard you created. Be selective in choosing what to highlight from this. You likely produced more artefacts than you will want to highlight. But these sections should be driven by artefacts and not by descriptions of them. 
 
 
-### Rachel Jones
+Primary Persona | Secondary Persona
+- | - 
+![Persona of Rachel](./images/rachel.png) | ![Persona of Matt](matt.jpg)
+
+<!-- ### Rachel Jones
 ![Persona of Rachel](./images/Rachel_jones.png)
 
 
 ### Matt Tores 
-![Persona of Matt](./images/matt_torres.png)
+![Persona of Matt](./images/matt_torres.png) -->
 
 ## Storyboard 
 
