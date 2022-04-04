@@ -18,7 +18,7 @@ Succinctly present your main persona, your scenario, and the storyboard you crea
 
 Primary Persona | Secondary Persona
 - | - 
-![Persona of Rachel](./images/rachel.png) | ![Persona of Matt](matt.png)
+![Persona of Rachel](./images/rachel.png) | ![Persona of Matt](./images/matt.pngmatt.png)
 
 <!-- ### Rachel Jones
 ![Persona of Rachel](./images/Rachel_jones.png)
