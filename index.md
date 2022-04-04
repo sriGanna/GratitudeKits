@@ -4,7 +4,9 @@
 Of the 1.4 million students who study at Canadian Universities, 10% move provinces to, and  another 10% originate from outside of Canada. These students often relocate with a limited or non-existent social, professional, or other type of network in their new city 
 This can lead to feelings of isolation contributing to higher levels of mental illness, poor university experience, academic performance, attrition,
 Expressions of gratitude can help nurture community and help form deep and meaningful connections - absolving such feels of isolation and subsequent effects
-![Problem Statement](./images/ProblemStateemnt.JPG)
+
+
+![Problem Statement](./images/ProblemStatement.JPG)
 
 
 ## Formative evaluation 
@@ -12,13 +14,13 @@ Provide a brief summary of your formative evaluation process and findings. Brain
 
 
 
-## Persona, scenario, and storyboard
+## Persona
 Succinctly present your main persona, your scenario, and the storyboard you created. Be selective in choosing what to highlight from this. You likely produced more artefacts than you will want to highlight. But these sections should be driven by artefacts and not by descriptions of them. 
 
 
 Primary Persona | Secondary Persona
 - | - 
-![Persona of Rachel](./images/rachel.png) | ![Persona of Matt](./images/matt.pngmatt.png)
+![Persona of Rachel](./images/rachel.png) | ![Persona of Matt](./images/matt.png)
 
 <!-- ### Rachel Jones
 ![Persona of Rachel](./images/Rachel_jones.png)
@@ -27,7 +29,15 @@ Primary Persona | Secondary Persona
 ### Matt Tores 
 ![Persona of Matt](./images/matt_torres.png) -->
 
-## Storyboard 
+## Tasks / Scenario
+Rachel has a huge test coming up and is feeling stressed. She's been studying for a long time but is stuck on one problem and is starting to feel overwhelmed. To help with the problem, she asks a classmate for help the classmate was able to explain the problem in a way that made sense to Rachel. She is very thankful for the classmate's help and wants a way to express her gratitude in a more meaningful way but she doesn't know how to do so. She also thinks this is a perfect opportunity wats to deepen her connection with the classmate. 
+
+## Storyboard
+
+![Storyboard of video prototype](./images/storyboard.png) 
+
+
+
 
 
 ## Prototype Overview 
