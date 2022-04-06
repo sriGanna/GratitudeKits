@@ -1,4 +1,10 @@
-# Group 2 Gratitude Kits
+---
+layout: default
+title: Gratitude Kits
+description: Home Page
+
+---
+<!-- # Group 2 Gratitude Kits -->
 
 ## Problem Statement 
 Of the 1.4 million students who study at Canadian Universities, 10% move provinces to, and  another 10% originate from outside of Canada. These students often relocate with a limited or non-existent social, professional, or other type of network in their new city 
