@@ -73,7 +73,10 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
 
 ## Prototype Overview 
 
-<iframe src="https://drive.google.com/file/d/1zbFgkbNtg9CUVSIF90UJNzPfqLrt9HoD/preview" width="640" height="480" allow="autoplay"></iframe>
+<p align="center">
+
+    <iframe src="https://drive.google.com/file/d/1zbFgkbNtg9CUVSIF90UJNzPfqLrt9HoD/preview" width="640" height="480" allow="autoplay"></iframe>
+</p>
 
 The prototype product is a selection of physical kits that users can order online, pick up, and craft at home or within a workshop space. Based on user selection, the kits contain items from a wide range of ordinary hand-crafting tools and materials such as scissors, glues, cutting papers, stickers, and gift wraps. The considerations behind this design are to make it cheap, affordable, eco-friendly, easy to use while providing great customizable for users to apply their creativity and personal preference. The fun and collaborative culture of casual crafting combined with its dedicated, innovative incentive should have the effect of mitigating social awkwardness, increasing bond, and deliver the intended gratitude in an always personal and unique way.
 It is important to keep in mind that the video prototype represents the horizontal design of our product at an earlier point which only demonstrates an envisioned process of use. The actual product features and services will be actualized and diversified in our redesign stage. 
