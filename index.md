@@ -72,7 +72,9 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
 
 
 ## Prototype Overview 
-Provide a brief overview of your prototype, including a description of its design, rationales for the design choices, and images as necessary to communicates its overall design. You should as a general rule embed your video prototype here (though as this has already been evaluated separately you will not be graded down for not including it if there is some technical or practical challenge in doing so).
+The prototype product is a selection of physical kits that users can order online, pick up, and craft at home or within a workshop space. Based on user selection, the kits contain items from a wide range of ordinary hand-crafting tools and materials such as scissors, glues, cutting papers, stickers, and gift wraps. The considerations behind this design are to make it cheap, affordable, eco-friendly, easy to use while providing great customizable for users to apply their creativity and personal preference. The fun and collaborative culture of casual crafting combined with its dedicated, innovative incentive should have the effect of mitigating social awkwardness, increasing bond, and deliver the intended gratitude in an always personal and unique way.
+It is important to keep in mind that the video prototype represents the horizontal design of our product at an earlier point which only demonstrates an envisioned process of use. The actual product features and services will be actualized and diversified in our redesign stage. 
+
 
 ## Feedback 
 Briefly describe how the prototype was evaluated and highlight key findings, especially any that were surprising or went against your expectations. Being able to interpret the findings and select which are most useful to share is as important as being able to collect the data in the first place.
