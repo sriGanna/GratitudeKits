@@ -48,9 +48,9 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
 
 ![Storyboard of video prototype](./images/storyboard.png) 
 
-![Storyboard of video prototype](./images/storyboard_1.png) 
-![Storyboard of video prototype](./images/storyboard_2.png) 
-![Storyboard of video prototype](./images/storyboard_3.png) 
+![Storyboard of video prototype](./images/storyboard_1.JPG) 
+![Storyboard of video prototype](./images/storyboard_2.JPG) 
+![Storyboard of video prototype](./images/storyboard_3.JPG) 
 
 
 
