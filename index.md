@@ -34,8 +34,6 @@ Provide a brief summary of your formative evaluation process and findings. Brain
 
 
 ## Persona
-Succinctly present your main persona, your scenario, and the storyboard you created. Be selective in choosing what to highlight from this. You likely produced more artefacts than you will want to highlight. But these sections should be driven by artefacts and not by descriptions of them. 
-
 
 Primary Persona | Secondary Persona
 - | - 
@@ -74,7 +72,6 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
 ## Prototype Overview 
 
 <p align="center">
-
     <iframe src="https://drive.google.com/file/d/1zbFgkbNtg9CUVSIF90UJNzPfqLrt9HoD/preview" width="640" height="480" allow="autoplay"></iframe>
 </p>
 
