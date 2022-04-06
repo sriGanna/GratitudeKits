@@ -3,9 +3,9 @@ layout: default
 filename: index.md
 title: Gratitude Kits
 ---
-<!-- # Group 2 Gratitude Kits -->
+# Group 2 Gratitude Kits
 <!-- HEADER -->
-<div id="header_wrap" class="outer">
+<!-- <div id="header_wrap" class="outer">
     <header class="inner">
         <h1 id="project_title">MyProjects</h1>
         <div id="navbar">
@@ -15,7 +15,7 @@ title: Gratitude Kits
             </ul>
         </div>
     </header>
-</div>
+</div> -->
 
 ## Problem Statement 
 Of the 1.4 million students who study at Canadian Universities, 10% move provinces to, and  another 10% originate from outside of Canada. These students often relocate with a limited or non-existent social, professional, or other type of network in their new city 
