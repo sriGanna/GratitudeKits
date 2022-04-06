@@ -36,7 +36,7 @@ Primary Persona | Secondary Persona
 ![Persona of Matt](./images/matt_torres.png) -->
 
 ## Goals
-![Checkbox](./images/check.jpg) | Build a support system to help her achieve success 
+![Checkbox](./images/check.jpg =120x90) | Build a support system to help her achieve success 
 ![Checkbox](./images/check.jpg) | Build stronger connections to combat loneliness from moving 
 ![Checkbox](./images/check.jpg) | Express more gratitude as a way of building more meaningful connections 
 
