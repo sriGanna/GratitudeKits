@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: template
+filename: index.md
 title: Gratitude Kits
 ---
 <!-- # Group 2 Gratitude Kits -->
