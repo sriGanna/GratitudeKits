@@ -36,10 +36,12 @@ During a Brain Sketching exercise was really where a lot of our formative ideas 
 
 
 
-## Persona
+## Personas
 
-
+### Primary Persona
 ![Persona of Rachel](./images/rachel.png) 
+
+### Secondary Persona
 ![Persona of Matt](./images/matt.png)
 
 <!-- ### Rachel Jones
@@ -51,9 +53,9 @@ During a Brain Sketching exercise was really where a lot of our formative ideas 
 
 ## Goals
 
-|![Checkbox](./images/check.jpg) | Build a support system to help her achieve success |
-|![Checkbox](./images/check.jpg) | Build stronger connections to combat loneliness from moving | 
-|![Checkbox](./images/check.jpg) | Express more gratitude as a way of building more meaningful connections |
+|![Checkbox](./images/check.png) | Build a support system to help her achieve success |
+|![Checkbox](./images/check.png) | Build stronger connections to combat loneliness from moving | 
+|![Checkbox](./images/check.png) | Express more gratitude as a way of building more meaningful connections |
 
 ## Tasks / Scenario
 Rachel has a huge test coming up and is feeling stressed. She's been studying for a long time but is stuck on one problem and is starting to feel overwhelmed. To help with the problem, she asks a classmate for help the classmate was able to explain the problem in a way that made sense to Rachel. She is very thankful for the classmate's help and wants a way to express her gratitude in a more meaningful way but she doesn't know how to do so. She also thinks this is a perfect opportunity to deepen her connection with the classmate.  
