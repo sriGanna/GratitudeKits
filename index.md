@@ -82,9 +82,20 @@ It is important to keep in mind that the video prototype represents the horizont
 ## Feedback 
 Briefly describe how the prototype was evaluated and highlight key findings, especially any that were surprising or went against your expectations. Being able to interpret the findings and select which are most useful to share is as important as being able to collect the data in the first place.
 
+![creativity infographic](./images/creativity.png) 
+
+
+
+
 
 ## Redesign 
 Present the next progression of your design idea. Note that we are cutting our iterative process off at this stage and keeping it brief. You should use this design phase to articulate how your evaluation findings are moving forward your design thinking. You do not need to build out an entire interface.
+
+<p align="center">
+  <img src="./images/creativity" />
+</p>
+
+
 
 ## Concluding thoughts and future work 
 
