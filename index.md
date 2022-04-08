@@ -107,9 +107,9 @@ td, th {
 Present the next progression of your design idea. Note that we are cutting our iterative process off at this stage and keeping it brief. You should use this design phase to articulate how your evaluation findings are moving forward your design thinking. You do not need to build out an entire interface.
 
 
-|![Post Cards](./images/cards.png) | ![Woodworking](./images/wood.png)|
+| | ![Woodworking](./images/wood.png)|![Post Cards](./images/Knit.png)|
 |![Post Cards](./images/plant.png) | ![Knitting](./images/composing.png)|
-![Post Cards](./images/Knit.png)
+
 
 <!-- <p align="center">
   <img src="./images/composing.png" />
