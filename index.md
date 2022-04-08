@@ -81,8 +81,18 @@ It is important to keep in mind that the video prototype represents the horizont
 
 ## Feedback 
 Briefly describe how the prototype was evaluated and highlight key findings, especially any that were surprising or went against your expectations. Being able to interpret the findings and select which are most useful to share is as important as being able to collect the data in the first place.
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
-![creativity infographic](./images/creativity.png) 
+
+
+|![creativity infographic](./images/creativity.png) | - Confusion as to the content of the kit. Many participants were unclear on the contents and variations of the kit, and worried there weren’t options that would relate to their own ways of expressing gratitude.
+- Kit suggestions were solicited, in the hopes of ensuring we could cover a wider range of products. This also informed our v2 Prototype, which covers a wider array of domains.
+    - We had hoped including multiple products in the video was enough to showcase different kits, but our prototype was not clear.
+- Some users we interviewed pushed back against the idea in its entirety – they considered it a “silly idea” that they would never use. When asked for clarification, they explained that it was contrary to their own ideas about expressing gratitude, and that they wouldn’t require help. Given that our target users were those who had trouble expressing gratitude, this seems to affirm who we aren’t targeting. |
 
 
 
