@@ -89,10 +89,11 @@ td, th {
 
 
 
-|![creativity infographic](./images/creativity.png) | - Confusion as to the content of the kit. Many participants were unclear on the contents and variations of the kit, and worried there weren’t options that would relate to their own ways of expressing gratitude.
+![creativity infographic](./images/creativity.png) 
+- Confusion as to the content of the kit. Many participants were unclear on the contents and variations of the kit, and worried there weren’t options that would relate to their own ways of expressing gratitude.
 - Kit suggestions were solicited, in the hopes of ensuring we could cover a wider range of products. This also informed our v2 Prototype, which covers a wider array of domains.
     - We had hoped including multiple products in the video was enough to showcase different kits, but our prototype was not clear.
-- Some users we interviewed pushed back against the idea in its entirety – they considered it a “silly idea” that they would never use. When asked for clarification, they explained that it was contrary to their own ideas about expressing gratitude, and that they wouldn’t require help. Given that our target users were those who had trouble expressing gratitude, this seems to affirm who we aren’t targeting. |
+- Some users we interviewed pushed back against the idea in its entirety – they considered it a “silly idea” that they would never use. When asked for clarification, they explained that it was contrary to their own ideas about expressing gratitude, and that they wouldn’t require help. Given that our target users were those who had trouble expressing gratitude, this seems to affirm who we aren’t targeting. 
 
 
 
@@ -101,9 +102,10 @@ td, th {
 ## Redesign 
 Present the next progression of your design idea. Note that we are cutting our iterative process off at this stage and keeping it brief. You should use this design phase to articulate how your evaluation findings are moving forward your design thinking. You do not need to build out an entire interface.
 
-<p align="center">
-  <img src="./images/creativity" />
-</p>
+
+|![woodworking](./images/woodworking.png) | ![creativity infographic](./images/cards.png)|
+
+
 
 
 
