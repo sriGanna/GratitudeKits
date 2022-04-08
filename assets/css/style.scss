@@ -59,11 +59,11 @@ img[alt="Checkbox"] { width: 70px; display: block;}
     
     // text-align: center;
     padding: 2rem 1rem;
-    // color: rgba(255,255,255,.5);
-    // background-color: #202020;
-    color: $header-heading-color;
+    color: rgba(255,255,255,.5);
+    background-color: #202020;
+    // color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
+//   background-color: $header-bg-color;
   background-image: url("../../images/header.png");
   }
   @media (min-width: 48em) {
