@@ -105,6 +105,8 @@ Present the next progression of your design idea. Note that we are cutting our i
 
 |![Post Cards](./images/cards.png) | ![Woodworking](./images/wood.png)|
 |![Post Cards](./images/plant.png) | ![Knitting](./images/composing.png)|
+![Post Cards](./images/Knit.png)
+
 <!-- <p align="center">
   <img src="./images/composing.png" />
 </p> -->
