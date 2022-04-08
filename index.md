@@ -104,7 +104,7 @@ Present the next progression of your design idea. Note that we are cutting our i
 
 
 |![Post Cards](./images/cards.png) | ![Woodworking](./images/wood.png)|
-|![Post Cards](./images/cards.png) | ![Woodworking](./images/Knit.png)|
+|![Post Cards](./images/cards.png) | ![Knitting](./images/Knit.png)|
 
 
 
