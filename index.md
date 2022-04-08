@@ -16,22 +16,21 @@ In this project we design a solution which helps lower social barriers, allowing
 ![Problem Statement](./images/ProblemStatement.JPG)
 
 
-## Formative evaluation 
+## <a name="Eval"></a> Formative evaluation 
 Provide a brief summary of your formative evaluation process and findings. Brainsketching activity may come of use here. 
 
 
 ![Problem Statement](./images/gratitude.png)
 
 During a Brain Sketching exercise was really where a lot of our formative ideas and feedback took place. With the exercise, each of us created an idea and direction for our design and then collaboratively added onto and improved each design. Through this exercise, we could plainly see where each individual member was coming from conceptually and we were able to give real-time feedback that allowed each member to hone in on an effective and more developed idea. A lot of the inspiration for our final kit ideas came from this brain sketching exercise. 
-<center>
+
 |![Brainstorming](./images/sketch_1.png)|![Brainstorming](./images/sketch_2.png)|
 |![Brainstorming](./images/sketch_3.png)|![Brainstorming](./images/sketch_4.png)|
 
-</center>
 
-<center>
+
+
 ![Reflections](./images/reflections.png)
-</center>
 
 
 
