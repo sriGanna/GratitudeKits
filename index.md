@@ -5,7 +5,7 @@ title: Gratitude Kits
 ---
 
 
-## Problem Statement 
+## <a name="Problem"></a> Problem Statement 
 Of the 1.4 million students who study at Canadian Universities, 10% move provinces to, and  another 10% originate from outside of Canada. These students often relocate with a limited or non-existent social, professional, or other type of network in their new city 
 This can lead to feelings of isolation contributing to higher levels of mental illness, poor university experience, academic performance, attrition,
 Expressions of gratitude can help nurture community and help form deep and meaningful connections - absolving such feelings of isolation and subsequent effects.
@@ -36,7 +36,7 @@ During a Brain Sketching exercise was really where a lot of our formative ideas 
 
 
 
-## Personas
+## <a name="Persona"></a> Personas
 
 ### Primary Persona
 ![Persona of Rachel](./images/rachel.png) 
