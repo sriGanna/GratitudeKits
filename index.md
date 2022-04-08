@@ -3,19 +3,7 @@ layout: default
 filename: index.md
 title: Gratitude Kits
 ---
-# Group 2 Gratitude Kits
-<!-- HEADER -->
-<!-- <div id="header_wrap" class="outer">
-    <header class="inner">
-        <h1 id="project_title">MyProjects</h1>
-        <div id="navbar">
-            <ul>
-                <li><a href="index.html">HOME</a></li>
-                <li><a href="storyboard.html">storyboard</a></li>
-            </ul>
-        </div>
-    </header>
-</div> -->
+
 
 ## Problem Statement 
 Of the 1.4 million students who study at Canadian Universities, 10% move provinces to, and  another 10% originate from outside of Canada. These students often relocate with a limited or non-existent social, professional, or other type of network in their new city 
@@ -30,6 +18,18 @@ In this project we design a solution which helps lower social barriers, allowing
 
 ## Formative evaluation 
 Provide a brief summary of your formative evaluation process and findings. Brainsketching activity may come of use here. 
+
+
+![Problem Statement](./images/gratitude.png)
+
+During a Brain Sketching exercise was really where a lot of our formative ideas and feedback took place. With the exercise, each of us created an idea and direction for our design and then collaboratively added onto and improved each design. Through this exercise, we could plainly see where each individual member was coming from conceptually and we were able to give real-time feedback that allowed each member to hone in on an effective and more developed idea. A lot of the inspiration for our final kit ideas came from this brain sketching exercise. 
+
+
+|![Brainstorming](./images/sketch_1.png)|![Brainstorming](./images/sketch_2.png)|
+|![Brainstorming](./images/sketch_3.png)|![Brainstorming](./images/sketch_4.png)|
+
+![Reflections](./images/reflections.png)
+
 
 
 
