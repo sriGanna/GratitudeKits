@@ -111,13 +111,13 @@ Present the next progression of your design idea. Note that we are cutting our i
 
 ### Original Kits
 
-|![Woodworking](./images/paint.png) |![Woodworking](./images/draw.png) | ![Woodworking](./images/stickers.png)|
+|![Woodworking](./images/paint.png) |![Woodworking](./images/draw.png) | ![Woodworking](./images/stickers.png)|![Post Cards](./images/cards.png) |
 
 
 ### New Kits
 
 |![Woodworking](./images/wood.png)|![Post Cards](./images/Knit.png)|
-|![Post Cards](./images/plant.png) | ![Knitting](./images/composing.png)|
+|![Plants](./images/plant.png) | ![Knitting](./images/composing.png)|
 
 
 <!-- <p align="center">
