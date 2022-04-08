@@ -38,8 +38,7 @@ During a Brain Sketching exercise was really where a lot of our formative ideas 
 
 ## Persona
 
-Primary Persona | Secondary Persona
-- | - 
+
 ![Persona of Rachel](./images/rachel.png) 
 ![Persona of Matt](./images/matt.png)
 
@@ -107,7 +106,7 @@ td, th {
 Present the next progression of your design idea. Note that we are cutting our iterative process off at this stage and keeping it brief. You should use this design phase to articulate how your evaluation findings are moving forward your design thinking. You do not need to build out an entire interface.
 
 
-| ![Woodworking](./images/wood.png)|![Post Cards](./images/Knit.png)|
+|![Woodworking](./images/wood.png)|![Post Cards](./images/Knit.png)|
 |![Post Cards](./images/plant.png) | ![Knitting](./images/composing.png)|
 
 
