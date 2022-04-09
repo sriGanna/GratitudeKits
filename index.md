@@ -29,9 +29,10 @@ During a Brain Sketching exercise was really where a lot of our formative ideas 
 |![Brainstorming](./images/sketch_3.png)|![Brainstorming](./images/sketch_4.png)|
 
 
+<p align="center">
+  <img src="./images/reflections.png" />
+</p>
 
-
-![Reflections](./images/reflections.png)
 
 
 
