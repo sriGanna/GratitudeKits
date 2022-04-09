@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 filename: index.md
 title: Gratitude Kits
 ---
