@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: default
 filename: index.md
 title: Gratitude Kits
 ---
@@ -111,7 +111,7 @@ Present the next progression of your design idea. Note that we are cutting our i
 
 ### Original Kits
 
-|![Woodworking](./images/paint.png) |![Woodworking](./images/draw.png) | ![Woodworking](./images/stickers.png)|![Post Cards](./images/cards.png) |
+|![Woodworking](./images/paint.png) |![Woodworking](./images/draw.png) | ![Woodworking](./images/stickers.png)|![Post Cards](./images/) |
 
 
 ### New Kits
