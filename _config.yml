@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: fongandrew/hydeout
 title: [Gratitude Kits]
 description: [Showing gratitude in a meaningful way]
 github: 
