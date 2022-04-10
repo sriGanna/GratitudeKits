@@ -139,6 +139,15 @@ Present the next progression of your design idea. Note that we are cutting our i
 
 ## <a name="Conclusion"></a> Concluding thoughts and future work 
 
+### Looking Forward
+
+Some areas we would like to include in future interactions of this design progroject include:
+User interviews and input for those with disabilities or accessibility concerns on how we can make both the kits themselves as well as the process of ordering, picking up, and making more inclusive 
+Currently kits are designed for those at a beginner or intermediate level of the craft itself, we would want to expand to accommodate those at a more advanced skill level
+Improve the usability of the ordering app, and include additional functionality including feedback or reviews for each of the kits.
+
+### Conclusions
+
 |![Woodworking](./images/profiles/sara_profile.png)|![Woodworking](./images/profiles/taylor_profile.png) |
 
 <!-- <div class="row">
