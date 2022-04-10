@@ -60,11 +60,10 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
 
 ## Storyboard
 
-<!-- ![Storyboard of video prototype](./images/storyboard.png)  -->
-
+<!-- 
 <p align="center">
   <img src="./images/storyboard.png" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="./images/storyboard_2.png" />
