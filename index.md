@@ -148,7 +148,8 @@ Some areas we would like to include in future interactions of this design progro
 
 ### Conclusions
 
-|![Woodworking](./images/profiles/sara_profile_nobg.png)|![Woodworking](./images/profiles/taylor_profile_nobg.png) |
+|![Woodworking](./images/profiles/sara_profile_nobg.png)|
+|![Woodworking](./images/profiles/taylor_profile_nobg.png) |
 
 <!-- <div class="row">
   <div class="column">
