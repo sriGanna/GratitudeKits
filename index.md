@@ -3,6 +3,7 @@ layout: default
 filename: index.md
 title: Gratitude Kits
 ---
+<link rel="stylesheet" href="./index_styles.scss">
 
 
 ## <a name="Problem"></a> Problem Statement 
