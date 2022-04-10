@@ -147,9 +147,8 @@ Some areas we would like to include in future interactions of this design progro
 3. Improve the usability of the ordering app, and include additional functionality including feedback or reviews for each of the kits.
 
 ### Conclusions
-|  R |  Python |
-| --------- |:---|
-| ![Sara](./images/profiles/sara_circ.png) | Going through an entire user-centered design cycle - or nearly - from ideation to prototyping has really shown how different everyone is. Both in how people define gratitude, but also how they see solutions to improving it. The one constant that seemed nearly universal, was the importance of gratitude in our lives, and we as designers has the opportunity to try to figure out how to exemplify that in our solution |
+
+![Sara](./images/profiles/sara_circ.png) | Going through an entire user-centered design cycle - or nearly - from ideation to prototyping has really shown how different everyone is. Both in how people define gratitude, but also how they see solutions to improving it. The one constant that seemed nearly universal, was the importance of gratitude in our lives, and we as designers has the opportunity to try to figure out how to exemplify that in our solution 
 
 
 |![Woodworking](./images/profiles/sara_profile_nobg.png)|
