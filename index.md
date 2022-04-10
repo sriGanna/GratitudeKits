@@ -19,6 +19,8 @@ __In this project we design a solution which helps lower social barriers, allowi
 
 ![Problem Statement](./images/ProblemStatement.JPG)
 
+&nbsp;
+&nbsp;
 
 ## <a name="Eval"></a> Formative evaluation 
 
@@ -36,8 +38,8 @@ During a Brain Sketching exercise was really where a lot of our formative ideas 
 </p>
 
 
-
-
+&nbsp;
+&nbsp;
 
 ## <a name="Persona"></a> Personas
 
@@ -46,13 +48,6 @@ During a Brain Sketching exercise was really where a lot of our formative ideas 
 
 ### Secondary Persona
 ![Persona of Matt](./images/matt.png)
-
-<!-- ### Rachel Jones
-![Persona of Rachel](./images/Rachel_jones.png)
-
-
-### Matt Tores 
-![Persona of Matt](./images/matt_torres.png) -->
 
 ## Goals
 
@@ -80,7 +75,8 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
 ![Storyboard of video prototype](./images/storyboard_2.JPG) 
 ![Storyboard of video prototype](./images/storyboard_3.JPG) 
 
-
+&nbsp;
+&nbsp;
 
 ## <a name="Prototype"></a> Prototype Overview 
 
@@ -92,6 +88,9 @@ It is important to keep in mind that the video prototype represents the horizont
 <p align="center">
     <iframe src="https://drive.google.com/file/d/1zbFgkbNtg9CUVSIF90UJNzPfqLrt9HoD/preview" width="640" height="480" allow="autoplay"></iframe>
 </p>
+
+&nbsp;
+&nbsp;
 
 
 ## <a name="Feedback"></a> Feedback 
@@ -111,7 +110,8 @@ td, th {
 - Some users we interviewed pushed back against the idea in its entirety – they considered it a “silly idea” that they would never use. When asked for clarification, they explained that it was contrary to their own ideas about expressing gratitude, and that they wouldn’t require help. Given that our target users were those who had trouble expressing gratitude, this seems to affirm who we aren’t targeting. 
 
 
-
+&nbsp;
+&nbsp;
 
 
 ## <a name="Redesign"></a> Redesign 
@@ -128,13 +128,8 @@ td, th {
 |![Plants](./images/plant.png) | ![Knitting](./images/composing.png)|
 
 
-<!-- <p align="center">
-  <img src="./images/composing.png" />
-</p> -->
-
-
-
-
+&nbsp;
+&nbsp;
 
 ## <a name="Conclusion"></a> Concluding thoughts and future work 
 
@@ -159,59 +154,6 @@ Some areas we would like to include in future interactions of this design progro
 
 | ![Sri](./images/profiles/sri_circ_full.png) | Applying the design process to this project, for me, really emphasized the  importance of diversity of thought. Especially in the early phases of the design cycle, the diversity allowed us to explore ideas & avenues that no single person in our team could have come up with on their own. |
 
-<!-- 
-|![Woodworking](./images/profiles/sara_profile_nobg.png)|
-|![Woodworking](./images/profiles/taylor_profile_nobg.png)| -->
-
-<!-- <div class="row">
-  <div class="column">
-      <a href="url"><img src="./images/profiles/Sara.png" height="auto" width="200" style="border-radius:50%"></a>
-      <p> Sara Cantler</p>
-      <p>Master’s of Information Studies ‘23 </p>
-  </div>
-  <div class="column">
-    <p>This design has been a chance to be a part of a collaborative process that emphasizes how gratitude plays a role in our lives, and how we can cultivate and express more of it in our daily lives and in our relationships, both new and old. It was an interesting opportunity to explore and understand how others view gratitude and where they’re excelling in or lacking in gratitude and how to try and emphasize or mitigate those factors respectively.</p>
-  </div>
-</div> -->
 
 
 
-<!-- > This design has been a chance to be a part of a collaborative process that emphasizes how gratitude plays a role in our lives, and how we can cultivate and express more of it in our daily lives and in our relationships, both new and old. It was an interesting opportunity to explore and understand how others view gratitude and where they’re excelling in or lacking in gratitude and how to try and emphasize or mitigate those factors respectively. -->
-
-<!-- ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sriGanna/GratitudeKits/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sriGanna/GratitudeKits/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
