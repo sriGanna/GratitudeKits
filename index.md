@@ -22,7 +22,9 @@ __In this project we design a solution which helps lower social barriers, allowi
 &nbsp;
 &nbsp;
 &nbsp;
+
 &nbsp;
+
 
 ## <a name="Eval"></a> Formative evaluation 
 
@@ -164,6 +166,8 @@ Some areas we would like to include in future interactions of this design progro
 &nbsp;
 
 | ![Sri](./images/profiles/sri_circ_full.png) | Applying the design process to this project, for me, really emphasized the  importance of diversity of thought. Especially in the early phases of the design cycle, the diversity allowed us to explore ideas & avenues that no single person in our team could have come up with on their own. |
+
+| Being able to work on a project from a vague prompt to the prototyping phase was incredibly rewarding. Seeing an idea grow as we all contributed our own perspectives and experiences, being able to conduct user testing, and challenging our own preconceived notions was informative and tremendously fun, and something I will continue to apply in other projects. | ![Siri](./images/profiles/siri_circ_full.png) |
 
 
 
