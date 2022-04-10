@@ -148,12 +148,17 @@ Some areas we would like to include in future interactions of this design progro
 
 ### Conclusions
 
-| ![Sara](./images/profiles/sara_circ_full.png) | Going through an entire user-centered design cycle - or nearly - from ideation to prototyping has really shown how different everyone is. Both in how people define gratitude, but also how they see solutions to improving it. The one constant that seemed nearly universal, was the importance of gratitude in our lives, and we as designers has the opportunity to try to figure out how to exemplify that in our solution |
+| ![Sara](./images/profiles/sara_circ_full.png) | This design has been a chance to be a part of a collaborative process that emphasizes how gratitude plays a role in our lives, and how we can cultivate and express more of it in our daily lives and in our relationships, both new and old. It was an interesting opportunity to explore and understand how others view gratitude and where they’re excelling in or lacking in gratitude and how to try and emphasize or mitigate those factors respectively.|
 
 &nbsp;
 &nbsp;
 
 | Going through an entire user-centered design cycle - or nearly - from ideation to prototyping has really shown how different everyone is. Both in how people define gratitude, but also how they see solutions to improving it. The one constant that seemed nearly universal, was the importance of gratitude in our lives, and we as designers has the opportunity to try to figure out how to exemplify that in our solution | ![Taylor](./images/profiles/Taylor_circ_full.png) |
+
+&nbsp;
+&nbsp;
+
+| ![Sri](./images/profiles/sri_circ_full.png) | Applying the design process to this project, for me, really emphasized the  importance of diversity of thought. Especially in the early phases of the design cycle, the diversity allowed us to explore ideas & avenues that no single person in our team could have come up with on their own. |
 
 <!-- 
 |![Woodworking](./images/profiles/sara_profile_nobg.png)|
