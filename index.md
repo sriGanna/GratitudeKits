@@ -21,6 +21,8 @@ __In this project we design a solution which helps lower social barriers, allowi
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ## <a name="Eval"></a> Formative evaluation 
 
@@ -38,6 +40,8 @@ During a Brain Sketching exercise was really where a lot of our formative ideas 
 </p>
 
 
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -76,6 +80,8 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ## <a name="Prototype"></a> Prototype Overview 
 
@@ -88,6 +94,8 @@ It is important to keep in mind that the video prototype represents the horizont
     <iframe src="https://drive.google.com/file/d/1zbFgkbNtg9CUVSIF90UJNzPfqLrt9HoD/preview" width="640" height="480" allow="autoplay"></iframe>
 </p>
 
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -111,6 +119,8 @@ td, th {
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 
 ## <a name="Redesign"></a> Redesign 
@@ -127,6 +137,8 @@ td, th {
 |![Plants](./images/plant.png) | ![Knitting](./images/composing.png)|
 
 
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
