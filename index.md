@@ -148,7 +148,7 @@ Improve the usability of the ordering app, and include additional functionality 
 
 ### Conclusions
 
-|![Woodworking](./images/profiles/sara_profile.png)|![Woodworking](./images/profiles/taylor_profile.png) |
+|![Woodworking](./images/profiles/sara_profile_nobg.png)|![Woodworking](./images/profiles/taylor_profile_nobg.png) |
 
 <!-- <div class="row">
   <div class="column">
