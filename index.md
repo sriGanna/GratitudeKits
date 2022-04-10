@@ -134,11 +134,11 @@ Present the next progression of your design idea. Note that we are cutting our i
 <div class="row">
   <div class="column">
       <a href="url"><img src="./images/profiles/Sara.png" height="auto" width="200" style="border-radius:50%"></a>
-      Sara Cantler
-      Master’s of Information Studies ‘23
+      <p> Sara Cantler</p>
+      <p>Master’s of Information Studies ‘23 </p>
   </div>
   <div class="column">
-    This design has been a chance to be a part of a collaborative process that emphasizes how gratitude plays a role in our lives, and how we can cultivate and express more of it in our daily lives and in our relationships, both new and old. It was an interesting opportunity to explore and understand how others view gratitude and where they’re excelling in or lacking in gratitude and how to try and emphasize or mitigate those factors respectively.
+    <p>This design has been a chance to be a part of a collaborative process that emphasizes how gratitude plays a role in our lives, and how we can cultivate and express more of it in our daily lives and in our relationships, both new and old. It was an interesting opportunity to explore and understand how others view gratitude and where they’re excelling in or lacking in gratitude and how to try and emphasize or mitigate those factors respectively.</p>
   </div>
 </div>
 
