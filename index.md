@@ -132,7 +132,7 @@ Present the next progression of your design idea. Note that we are cutting our i
 
 ## <a name="Conclusion"></a> Concluding thoughts and future work 
 
-![Woodworking](./images/profiles/sara_profile.png) 
+|![Woodworking](./images/profiles/sara_profile.png)|![Woodworking](./images/profiles/|taylor_profile.png) |
 
 <!-- <div class="row">
   <div class="column">
