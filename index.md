@@ -72,6 +72,11 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
   <img src="./images/storyboard.png" />
 </p>
 
+<p align="center">
+  <img src="./images/storyboard_2.png" />
+</p>
+
+
 ![Storyboard of video prototype](./images/storyboard_1.JPG) 
 ![Storyboard of video prototype](./images/storyboard_2.JPG) 
 ![Storyboard of video prototype](./images/storyboard_3.JPG) 
