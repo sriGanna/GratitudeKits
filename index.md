@@ -21,10 +21,9 @@ __In this project we design a solution which helps lower social barriers, allowi
 
 
 ## <a name="Eval"></a> Formative evaluation 
-Provide a brief summary of your formative evaluation process and findings. Brainsketching activity may come of use here. 
 
 
-![Problem Statement](./images/gratitude.png)
+![Gratitude Infographic](./images/gratitude.png)
 
 During a Brain Sketching exercise was really where a lot of our formative ideas and feedback took place. With the exercise, each of us created an idea and direction for our design and then collaboratively added onto and improved each design. Through this exercise, we could plainly see where each individual member was coming from conceptually and we were able to give real-time feedback that allowed each member to hone in on an effective and more developed idea. A lot of the inspiration for our final kit ideas came from this brain sketching exercise. 
 
@@ -96,7 +95,7 @@ It is important to keep in mind that the video prototype represents the horizont
 
 
 ## <a name="Feedback"></a> Feedback 
-Briefly describe how the prototype was evaluated and highlight key findings, especially any that were surprising or went against your expectations. Being able to interpret the findings and select which are most useful to share is as important as being able to collect the data in the first place.
+
 <style>
 td, th {
    border: none!important;
@@ -116,7 +115,7 @@ td, th {
 
 
 ## <a name="Redesign"></a> Redesign 
-Present the next progression of your design idea. Note that we are cutting our iterative process off at this stage and keeping it brief. You should use this design phase to articulate how your evaluation findings are moving forward your design thinking. You do not need to build out an entire interface.
+
 
 ### Original Kits
 
