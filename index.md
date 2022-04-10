@@ -11,7 +11,9 @@ title: Gratitude Kits
 Of the 1.4 million students who study at Canadian Universities, 10% move provinces to, and  another 10% originate from outside of Canada. These students often relocate with a limited or non-existent social, professional, or other type of network in their new city 
 This can lead to feelings of isolation contributing to higher levels of mental illness, poor university experience, academic performance, attrition,
 Expressions of gratitude can help nurture community and help form deep and meaningful connections - absolving such feelings of isolation and subsequent effects.
-**In this project we design a solution which helps lower social barriers, allowing for more gratitude sharing between students to foster community and minimize feelings of isolation. **
+
+
+__In this project we design a solution which helps lower social barriers, allowing for more gratitude sharing between students to foster community and minimize feelings of isolation.__
 
 
 
