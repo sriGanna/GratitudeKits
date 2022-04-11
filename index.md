@@ -13,7 +13,7 @@ This can lead to feelings of isolation contributing to higher levels of mental i
 Expressions of gratitude can help nurture community and help form deep and meaningful connections - absolving such feelings of isolation and subsequent effects.
 
 
-__In this project we design a solution which helps lower social barriers, allowing for more gratitude sharing between students to foster community and minimize feelings of isolation.__
+__In this project we designed a solution which helps lower social barriers, allowing for more gratitude sharing between students to foster community and minimize feelings of isolation.__
 
 
 
@@ -49,10 +49,11 @@ During a Brain Sketching exercise was really where a lot of our formative ideas 
 
 ## <a name="Persona"></a> Personas
 
-### Primary Persona
+### Primary Persona: The person who would be using the gratitude solution
+
 ![Persona of Rachel](./images/rachel.png) 
 
-### Secondary Persona
+### Secondary Persona: The person who would be on the receiving end of the solution
 ![Persona of Matt](./images/matt.png)
 
 ## Goals
@@ -74,6 +75,9 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
 <p align="center">
   <img src="./images/storyboard_2.png" />
 </p>
+&nbsp;
+
+&nbsp;
 
 
 ![Storyboard of video prototype](./images/storyboard_1.JPG) 
@@ -81,8 +85,9 @@ Rachel has a huge test coming up and is feeling stressed. She's been studying fo
 ![Storyboard of video prototype](./images/storyboard_3.JPG) 
 
 &nbsp;
-&nbsp;
-&nbsp;
+
+
+
 &nbsp;
 
 ## <a name="Prototype"></a> Prototype Overview 
@@ -126,6 +131,9 @@ td, th {
 
 
 ## <a name="Redesign"></a> Redesign 
+
+The original focus was on traditional crafting kits, such as drawing, sticker-making, painting, and cards. Given the feedback from potential users that it was quite limited and felt it was limited to just ‘crafters’ and excluded other forms of expression and gratitude. 
+Given this feedback we’ve expanded out kit selections to a much broader sense of “hand made” to include different versions and concepts of creativity. These lend themselves to a more inclusive set of gratitude gift kits 
 
 
 ### Original Kits
