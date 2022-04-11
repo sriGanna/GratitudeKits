@@ -171,9 +171,9 @@ Some areas we would like to include in future interactions of this design progro
 
 ![Taylor](./images/profiles/Taylor_profile_space.png)
 
-![Siri](./images/profiles/Siri_profile_space.png)
+![Siri Profile](./images/profiles/Siri_profile_space.png)
 
-![Sri](./images/profiles/Sri_profile_space.png)
+![Sri Profile](./images/profiles/Sri_profile_space.png)
 
 
 
