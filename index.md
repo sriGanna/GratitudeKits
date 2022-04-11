@@ -141,12 +141,12 @@ The original focus was on traditional crafting kits, such as drawing, sticker-ma
 Given this feedback we’ve expanded out kit selections to a much broader sense of “hand made” to include different versions and concepts of creativity. These lend themselves to a more inclusive set of gratitude gift kits 
 
 
-### Original Kits
+### Iteration 1
 
 |![Woodworking](./images/paint.png) |![Woodworking](./images/draw.png) | ![Woodworking](./images/stickers.png)|![Post Cards](./images/cards.png) |
 
 
-### New Kits
+### Iteration 2
 
 |![Woodworking](./images/wood.png)|![Post Cards](./images/Knit.png)|
 |![Plants](./images/plant.png) | ![Knitting](./images/composing.png)|
