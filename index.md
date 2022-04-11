@@ -163,11 +163,7 @@ Some areas we would like to include in future interactions of this design progro
 
 ### Conclusions
 
-<!-- | ![Sara](./images/profiles/sara_circ_full.png) | This design has been a chance to be a part of a collaborative process that emphasizes how gratitude plays a role in our lives, and how we can cultivate and express more of it in our daily lives and in our relationships, both new and old. It was an interesting opportunity to explore and understand how others view gratitude and where they’re excelling in or lacking in gratitude and how to try and emphasize or mitigate those factors respectively.| -->
 ![Sara](./images/profiles/sara_profile_space.png)
-<!-- 
-&nbsp;
-&nbsp; -->
 
 ![Taylor](./images/profiles/Taylor_profile_space.png)
 
