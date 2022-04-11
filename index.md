@@ -177,7 +177,7 @@ Some areas we would like to include in future interactions of this design progro
 
 
 
-| Going through an entire user-centered design cycle - or nearly - from ideation to prototyping has really shown how different everyone is. Both in how people define gratitude, but also how they see solutions to improving it. The one constant that seemed nearly universal, was the importance of gratitude in our lives, and we as designers has the opportunity to try to figure out how to exemplify that in our solution | ![Taylor](./images/profiles/Taylor_circ_full.png) |
+<!-- | Going through an entire user-centered design cycle - or nearly - from ideation to prototyping has really shown how different everyone is. Both in how people define gratitude, but also how they see solutions to improving it. The one constant that seemed nearly universal, was the importance of gratitude in our lives, and we as designers has the opportunity to try to figure out how to exemplify that in our solution | ![Taylor](./images/profiles/Taylor_circ_full.png) |
 
 &nbsp;
 &nbsp;
@@ -187,5 +187,5 @@ Some areas we would like to include in future interactions of this design progro
 | Being able to work on a project from a vague prompt to the prototyping phase was incredibly rewarding. Seeing an idea grow as we all contributed our own perspectives and experiences, being able to conduct user testing, and challenging our own preconceived notions was informative and tremendously fun, and something I will continue to apply in other projects. | ![Siri](./images/profiles/siri_circ_full.png) |
 
 
-
+ -->
 
