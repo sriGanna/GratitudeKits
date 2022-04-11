@@ -124,6 +124,7 @@ td, th {
     - We had hoped including multiple products in the video was enough to showcase different kits, but our prototype was not clear.
 &nbsp;
 
+
 - Some users we interviewed pushed back against the idea in its entirety – they considered it a “silly idea” that they would never use. When asked for clarification, they explained that it was contrary to their own ideas about expressing gratitude, and that they wouldn’t require help. Given that our target users were those who had trouble expressing gratitude, this seems to affirm who we aren’t targeting. 
 
 
